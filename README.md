@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Basic Notes app
+
+## a basic note app with crud functionality which is mobile responsive.
+
+### below is documentation to use this app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
